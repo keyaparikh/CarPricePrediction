@@ -1,0 +1,17 @@
+car_name,registration_year,insurance_validity,fuel_type,seats,kms_driven,ownsership,transmission,manufacturing_year,mileage(kmpl),engine(cc),max_power(bhp),torque(Nm),price(in lakhs)
+2020 Renault KWID Climber 1.0 AMT Opt,Dec-20,Third Party insurance,Petrol,5,12503,First Owner,Automatic,2020.0,22.0,999.0,999.0,67.0,5.15
+2016 Renault KWID RXT,Apr-16,Third Party insurance,Petrol,5,38000,Second Owner,Manual,2016.0,25.17,799.0,799.0,533.0,1.85
+2010 Maruti A-Star Zxi,Jun-10,Comprehensive,Petrol,5,58873,First Owner,Manual,2010.0,19.0,998.0,998.0,661.0,1.82
+2010 Maruti A-Star Vxi,Jan-11,Comprehensive,Petrol,5,75000,First Owner,Manual,2010.0,19.0,998.0,998.0,661.0,1.68
+2017 Renault KWID 1.0 RXT Optional AT 2016-2019,2017,Third Party insurance,Petrol,5,30000,First Owner,Automatic,2017.0,23.01,999.0,999.0,67.0,3.35
+2011 Maruti A-Star Zxi,May-12,Comprehensive,Petrol,5,48936,Second Owner,Manual,2011.0,19.0,998.0,998.0,661.0,2.34
+2011 Maruti A-Star AT VXI,Jun-11,Comprehensive,Petrol,5,89057,Second Owner,Automatic,2011.0,16.98,998.0,998.0,661.0,2.26
+2018 Datsun RediGO 1.0 T Option,May-18,Comprehensive,Petrol,5,3600,First Owner,Manual,2018.0,22.5,999.0,999.0,67.0,3.45
+2019 Maruti Alto 800 VXI BSIV,Nov-19,Zero Dep,Petrol,5,57647,First Owner,Manual,2019.0,24.7,796.0,796.0,473.0,3.52
+2017 Datsun RediGO 1.0 T Option,Nov-17,Comprehensive,Petrol,5,23329,First Owner,Manual,2017.0,22.5,999.0,999.0,67.0,2.72
+2019 Renault KWID 1.0 RXT Optional,Sep-19,Comprehensive,Petrol,5,69381,First Owner,Manual,2019.0,23.01,999.0,999.0,67.0,3.27
+2012 Maruti A-Star Vxi,Feb-12,Comprehensive,Petrol,5,60467,First Owner,Manual,2012.0,19.0,998.0,998.0,661.0,2.8
+2012 Maruti A-Star Zxi,Oct-12,Comprehensive,Petrol,5,77389,First Owner,Manual,2012.0,19.0,998.0,998.0,661.0,2.27
+2012 Maruti Wagon R VXI BS IV,Jul-12,Comprehensive,Petrol,5,23000,First Owner,Manual,2012.0,18.9,998.0,998.0,671.0,2.9
+2016 Hyundai EON Magna Plus,Dec-16,Zero Dep,Petrol,5,18049,First Owner,Manual,2016.0,21.1,814.0,814.0,552.0,3.15
+2018 Volkswagen Polo 1.0 MPI Comfortline,May-18,Comprehensive,Petrol,5,40000,Second Owner,Manual,2018.0,18.78,999.0,999.0,75.0,4.75
